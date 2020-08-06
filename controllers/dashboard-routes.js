@@ -39,7 +39,7 @@ router.get('/', withAuth, (req, res) => {
             res.status(500).json(err);
         });
 });
-
+//find one specific post
 router.get('/edit/:id', withAuth, (req, res) => {
     Post.findOne({
         where: {
