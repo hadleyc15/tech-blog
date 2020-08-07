@@ -84,20 +84,29 @@
 
   ## Screenshots
 
+Home Screen
 <img src="/images/Screenshot%20(86).png" />
 
+Login Screen
 <img src="/images/Screenshot%20(87).png" />
 
+Signup Screen
 <img src="/images/Screenshot%20(88).png" />
 
+Your Dashboard Screen after signup
 <img src="/images/Screenshot%20(89).png" />
 
+Your Dashboard with your posts being displayed
 <img src="/images/Screenshot%20(90).png" />
 
+Home Screen after signing in, you can see all posts including your own
 <img src="/images/Screenshot%20(91).png" />
 
+Comments Screen
 <img src="/images/Screenshot%20(92).png" />
 
+Comments screen post adding new comment
 <img src="/images/Screenshot%20(93).png" />
 
+Home Screen after logging out
 <img src="/images/Screenshot%20(94).png" />
